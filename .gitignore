@@ -1,0 +1,7 @@
+data.zip
+.venv
+*.{csv,xlsx}
+*.pyc
+mount
+azure-cli-env
+.env
